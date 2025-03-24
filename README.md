@@ -3,8 +3,9 @@
 Este repositório contém as implementações dos exemplos apresentados no livro **"Lógica de Programação em Python"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando Python. Aqui você encontra códigos-fonte dos conceitos abordados no livro.
 
 ## Livro
-O livro ainda não foi publicado. Neste momento, a versão prévia está disponível apenas aos alunos do [IFPR Arapongas](https://arapongas.ifpr.edu.br/).
+ISBN: 978-65-01-32472-2
+Link para comprar o livro na Amazon: [https://a.co/d/4yLC5tm](https://a.co/d/4yLC5tm)
 
 ## Estrutura do repositório
 
-O repositório está organizado de forma que cada diretório corresponde a um capítulo do livro de referência. Cada diretório contém arquivos `.py` que são as implementações em Python.
+O repositório está organizado de forma que cada diretório corresponde a um capítulo do livro de referência. Cada diretório contém arquivos `.sb3` que são as implementações em Scratch.
