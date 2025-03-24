@@ -7,5 +7,8 @@ ISBN: 978-65-01-32472-2
 Link para comprar o livro na Amazon: [https://a.co/d/4yLC5tm](https://a.co/d/4yLC5tm)
 
 ## Estrutura do repositório
+O diretório de códigos-fonte contém arquivos `.sb3` que são as implementações em Scratch.
 
-O repositório está organizado de forma que cada diretório corresponde a um capítulo do livro de referência. Cada diretório contém arquivos `.sb3` que são as implementações em Scratch.
+## Estúdio Scratch
+Os exemplos também estão disponíveis em um estúdio Scratch: [https://scratch.mit.edu/studios/35847375](https://scratch.mit.edu/studios/35847375).
+
